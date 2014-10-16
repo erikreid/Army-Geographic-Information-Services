@@ -1,4 +1,4 @@
-Army-Geospatial-Engineers
+Army-Geographic-Information-Systems
 =========================
 
-This repository is for collaboration within the Army Geospatial Community. Within this community, we can look at each others codes and tools to help improve the community as a whole.
+This repository is for collaboration within the Army GIS Community. The purpose of this community is for providing tools and templates used for the ESRI ArcGIS platform.  
